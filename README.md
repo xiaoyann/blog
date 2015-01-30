@@ -3,12 +3,9 @@
 https://github.com/striver-x/note/issues
 
 ```javascript
-<script>
-console.log( 'Hello World!' );
-</script>
+    console.log( 'Hello World!' );
 ```
 
 ```php
-<?php
-    echo 'Hello World!';
+    echo '原谅我的无耻！';
 ```
