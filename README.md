@@ -6,6 +6,3 @@ https://github.com/striver-x/note/issues
     console.log( 'Hello World!' );
 ```
 
-```php
-    echo '原谅我的无耻！';
-```
