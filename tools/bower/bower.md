@@ -7,4 +7,11 @@
 	npm install -g bower
 ```	
 
+#### 使用（以使用bootstrap为栗）
+1. 首先可以查看下这个包的信息
 
+```
+	bower info bootstrap
+```
+
+2. 
