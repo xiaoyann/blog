@@ -13,5 +13,7 @@
 ```
 	bower info bootstrap
 ```
-![image](https://github.com/striver-x/note/blob/master/assets/images/bower_1.png)
-2. 
+<img width=100 src="https://github.com/striver-x/note/blob/master/assets/images/bower_1.png" />
+<img width=100 src="https://github.com/striver-x/note/blob/master/assets/images/bower_2.png" />
+
+2. ssss
