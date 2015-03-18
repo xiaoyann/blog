@@ -13,5 +13,5 @@
 ```
 	bower info bootstrap
 ```
-
+![image](https://github.com/striver-x/note/blob/master/assets/images/bower_1.png)
 2. 
