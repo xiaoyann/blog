@@ -67,6 +67,8 @@
 
 
 #### 参考链接
-[http://www.zhangxinxu.com/wordpress/2010/09/%E7%B2%BE%E7%AE%80%E9%AB%98%E6%95%88%E7%9A%84css%E5%91%BD%E5%90%8D%E5%87%86%E5%88%99%E6%96%B9%E6%B3%95/](http://www.zhangxinxu.com/wordpress/2010/09/%E7%B2%BE%E7%AE%80%E9%AB%98%E6%95%88%E7%9A%84css%E5%91%BD%E5%90%8D%E5%87%86%E5%88%99%E6%96%B9%E6%B3%95/)
-[http://www.orzpoint.com/profiling-css-and-optimization-notes/](http://www.orzpoint.com/profiling-css-and-optimization-notes/)
-[http://www.zhihu.com/question/21935157](http://www.zhihu.com/question/21935157)
+https://github.com/mdo/code-guide
+http://www.zhangxinxu.com/wordpress/2010/09/%E7%B2%BE%E7%AE%80%E9%AB%98%E6%95%88%E7%9A%84css%E5%91%BD%E5%90%8D%E5%87%86%E5%88%99%E6%96%B9%E6%B3%95
+http://www.orzpoint.com/profiling-css-and-optimization-note
+http://www.zhihu.com/question/21935157
+https://github.com/kejun/CSS-Code-Guideline
