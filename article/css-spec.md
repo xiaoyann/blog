@@ -59,10 +59,8 @@
 ```
 
 
-### 几点性能优化
-> * 去掉无用的CSS规则。
-> * 减少重复的样式申明。
-> * 打包CSS文件时只打包当前页面使用的。
+### [性能优化](https://github.com/striver-x/notes/blob/master/article/css-optimization.md)
+
 
 
 
