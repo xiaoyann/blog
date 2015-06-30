@@ -19,3 +19,5 @@ fis.config.set('settings.postpackager.simple.autoReflow', true)`
 >- 其他配置详见github
 >- 有了它就不需要手动引入模块化脚本了，构建时会自动引入页面依赖的脚本
 >- 同时使用“simple”插件时要先配置“autoload”，因为FIS使用插件是按配置的先后顺序来的，不然后面自动引入的脚本不会被“simple”插件优化
+
+#### 相对资源路径不要省略`./`
