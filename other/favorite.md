@@ -7,6 +7,7 @@
 - [Git Book](http://git-scm.com/book/zh/v1)
 - [stackoverflow](http://stackoverflow.com/)
 - [segmentfault](http://segmentfault.com/)
+- [infoQ 语言&开发](http://www.infoq.com/cn/development/)
 - [FEX百度前端研发部](http://fex.baidu.com)
 - [张鑫旭的博客](http://www.zhangxinxu.com/wordpress/)
 - [汤姆大叔的博客](http://www.cnblogs.com/TomXu/)
