@@ -53,10 +53,12 @@ Beebank是公司的P2P项目，前端部分由我独立开发完成，现在已�
 - 2007 高中辍学
 
 
-## 最有成就感的事
+## 来自编程与工作的成就感
 - 在2012年的最后两个月我开始自学编程，并决定在2013初来北京参加培训。培训期间第一个项目满分，毕业项目被选为了班级[优秀作品](http://www.lampbrother.net/php/html/2013/zuopinliebiao_1011/185.html)。作为打了五年工的打工仔，我感觉很开心，这个决定是对的。
-- 在醋溜科技表现还不错，CEO、CTO都比较认可，并得了个公司的小苹果奖。[见图](https://github.com/striverx/notes/blob/master/assets/IMG_0146.JPG)
+- 在第一家公司醋溜科技表现还不错，CEO、CTO都比较认可，并得了个公司的小苹果奖。[图](https://github.com/striverx/notes/blob/master/assets/IMG_0146.JPG)
 
+## 我的书
+https://github.com/striverx/notes/blob/master/assets/IMG_0142.JPG
 
 
 
