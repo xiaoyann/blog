@@ -19,14 +19,14 @@
 - [资料大搜罗啊](https://github.com/jikeytang/front-end-collect)
 
 ### 深入浅出React系列
-- [一 React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
-- [二 React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
-- [三 理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
+- [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
+- [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
+- [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 
 ### React Native探索系列
-- [一 背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
-- [二 布局篇](http://www.infoq.com/cn/articles/react-native-layout)
-- [三 与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
+- [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
+- [布局篇](http://www.infoq.com/cn/articles/react-native-layout)
+- [与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
 
 ### 浏览器的工作原理及优化
 - [新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
