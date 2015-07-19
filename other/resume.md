@@ -21,8 +21,6 @@ Beebank是公司的P2P项目，前端部分由我独立开发完成，现在已�
 
 2014.1.8 - 2014.9.27 [北京醋溜网络科技有限公司](http://culiu.org/index.php/gscp/)
 > 职位：PHP开发工程师
-> 那时我刚学完PHP，所以做的PHP开发。
-> 因为公司只有一个前端妹纸，所以我们后台也承担了一些前端的活。
 
 主要项目：
 ####1. [楚楚街微店](http://wx.chuchujie.com/index.php?s=/Shop/index/shopid/2758)
@@ -38,32 +36,28 @@ Beebank是公司的P2P项目，前端部分由我独立开发完成，现在已�
 当时公司的主打产品9块9包邮和欢乐淘两个APP里面都预设了广告板块，用来发布推广活动，所以分配我做了这个活动发布系统。
 
 ## 技术相关
-1. HTML(HTML5)、CSS(CSS3)、Less
-2. JavaScript
-3. 库与框架：jQuery、Zepto、Backbone、ReactJS、React Native、SeaJS、RequireJS等
-> AngularJS、Vue.js、Polymer这些没有在真实项目中过，但能很快上手。
-4. FIS构建工具
-> 比较喜欢使用FIS，Grunt、Gulp、Yeoman等只是写过demo。准备学习下webpack。
-5. 服务器端语言: PHP、Node.js
-> 没有使用Node.js开发过完整项目。
-6. Linux
-> 基本操作没问题，工作时除了编码使用Sublime Text，其他操作都是在终端。
-7. 使用SVN、Git版本控制器
+###### 1. HTML(HTML5)、CSS(CSS3)、Less
+###### 2. JavaScript
+###### 3. 库与框架：jQuery、Zepto、Backbone、ReactJS、React Native、SeaJS、RequireJS等
+ AngularJS、Vue.js、Polymer这些没有在真实项目中过，但能很快上手。
+###### 4. FIS构建工具
+比较喜欢使用FIS，Grunt、Gulp、Yeoman等只是写过demo。准备学习下webpack。
+###### 5. 服务器端语言: PHP、Node.js
+没有使用Node.js开发过完整项目。
+###### 6. Linux
+基本操作没问题，工作时除了编码使用Sublime Text，其他操作都是在终端。
+###### 7. 使用SVN、Git版本控制器
 
 ## 教育经历
 - 2013.3 - 2013.9  [北京LAMP兄弟连](http://www.lampbrother.net/) PHP软件工程师培训
 - 2007 高中辍学
 
-## 学习能力
-
-## 工作能力
 
 ## 最有成就感的事
-- 辍学之后我就出来打工了，一晃就是5年。在2012年的最后两个月我开始自学编程，并决定在2013初来北京培训。家里人都很反对，甚至都不明白我到底去干嘛。可是我成功了。培训时的第一个项目满分，毕业项目被选为了班级[优秀作品](http://www.lampbrother.net/php/html/2013/zuopinliebiao_1011/185.html)。
+- 在2012年的最后两个月我开始自学编程，并决定在2013初来北京参加培训。培训期间第一个项目满分，毕业项目被选为了班级[优秀作品](http://www.lampbrother.net/php/html/2013/zuopinliebiao_1011/185.html)。作为打了五年工的打工仔，我感觉很开心，这个决定是对的。
+- 在醋溜科技表现还不错，CEO、CTO都比较认可，并得了个公司的小苹果奖。[见图](https://github.com/striverx/notes/blob/master/assets/IMG_0146.JPG)
 
-- 
 
-## 自我评价
 
 
 
