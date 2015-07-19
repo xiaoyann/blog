@@ -42,6 +42,12 @@
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
 - [Web应用的组件化（二）——管控平台 ](https://github.com/xufei/blog/issues/7)
 
+### 前端工程
+- [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
+- [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
+- [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
+
+
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
 
