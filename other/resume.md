@@ -1,5 +1,5 @@
 # 肖燕
-1989.10.05(男) TEL: 18692120886 Email: striverx@163.com
+1989.11.02(男) TEL: 18692120886 Email: striverx@163.com
 
 ## 工作经历
 
