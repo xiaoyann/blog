@@ -52,6 +52,7 @@
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
+- [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
 
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
