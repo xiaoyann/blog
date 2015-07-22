@@ -53,7 +53,7 @@
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
 - [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
-
+- [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
