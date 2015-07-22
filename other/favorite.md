@@ -42,6 +42,7 @@
 ### 组件化
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
 - [Web应用的组件化（二）——管控平台 ](https://github.com/xufei/blog/issues/7)
+- [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 
 ### 前端工程
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
