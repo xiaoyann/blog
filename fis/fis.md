@@ -24,3 +24,9 @@ fis.config.set('settings.postpackager.simple.autoReflow', true)`
 插件：[fis-postprocessor-require-async](https://github.com/xiangshouding/fis-postprocessor-require-async)
 
 #### 相对资源路径不要省略`./`
+
+#### 图片规则一定不要加文件夹进去
+[问题](https://github.com/fex-team/fis/issues/623#issuecomment-124124805)
+
+
+
