@@ -37,20 +37,30 @@
 ### 解决方案
 - [移动端高清、多屏适配方案](http://div.io/topic/1092)
 - [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)
+- [浅谈移动前端最佳实践](http://div.io/topic/818)
 
 ### 组件化
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
 - [Web应用的组件化（二）——管控平台 ](https://github.com/xufei/blog/issues/7)
+- [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 
 ### 前端工程
+- [前端工程](https://github.com/fouber/blog/labels/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B)
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 - [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
+### 单元测试
+- [七牛资深前端工程师马逸清：前端测试探索实践](http://blog.qiniu.com/archives/3832)
+- [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
+- [如何进行前端自动化测试](https://github.com/fouber/blog/issues/7)
+- [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
+- [如何进行前端自动化测试](http://www.zhihu.com/question/29922082)
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
-
+- [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
+- [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)

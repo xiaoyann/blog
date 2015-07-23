@@ -7,7 +7,8 @@ https://github.com/striverx/notes/issues
 ### JavaScript
 - [跨域总结](https://github.com/striverx/notes/blob/master/javascript/cross-domain.md)
 - [尾调用与尾调用优化](https://github.com/striverx/notes/blob/master/javascript/tail-call.md)
-- [一周一模式之 — 策略模式](https://github.com/striverx/notes/blob/master/javascript/patterns-strategy.md)
+- [一周一模式之 — 概述](https://github.com/striverx/notes/blob/master/javascript/design-pattern.md)
+- [一周一模式之 — 策略模式](https://github.com/striverx/notes/blob/master/javascript/pattern-strategy.md)
 
 ### 其他
 - [fis使用要点记录](https://github.com/striverx/notes/blob/master/fis/fis.md)
