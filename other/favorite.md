@@ -51,6 +51,7 @@
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
 ### 单元测试
+- [七牛资深前端工程师马逸清：前端测试探索实践](http://blog.qiniu.com/archives/3832)
 - [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
 - [如何进行前端自动化测试](https://github.com/fouber/blog/issues/7)
 - [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
