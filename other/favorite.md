@@ -49,6 +49,8 @@
 - [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
+### 单元测试
+- [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
