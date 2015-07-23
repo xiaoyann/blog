@@ -51,6 +51,7 @@
 
 ### 单元测试
 - [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
+- [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
