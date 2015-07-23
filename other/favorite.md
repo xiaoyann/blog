@@ -45,13 +45,16 @@
 - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 
 ### 前端工程
+- [前端工程](https://github.com/fouber/blog/labels/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B)
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 - [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
 ### 单元测试
 - [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
+- [如何进行前端自动化测试](https://github.com/fouber/blog/issues/7)
 - [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
+- [如何进行前端自动化测试](http://www.zhihu.com/question/29922082)
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
