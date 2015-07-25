@@ -23,10 +23,12 @@
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 
-### React Native探索系列
+### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
 - [布局篇](http://www.infoq.com/cn/articles/react-native-layout)
 - [与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
+- [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
+- [react parts](http://react.parts/native-ios)
 
 ### 浏览器的工作原理及优化
 - [新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
@@ -45,10 +47,17 @@
 - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 
 ### 前端工程
+- [前端工程](https://github.com/fouber/blog/labels/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B)
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 - [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
+### 单元测试
+- [七牛资深前端工程师马逸清：前端测试探索实践](http://blog.qiniu.com/archives/3832)
+- [前端单元测试](http://www.slideshare.net/LC2009/ss-34224947)
+- [如何进行前端自动化测试](https://github.com/fouber/blog/issues/7)
+- [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
+- [如何进行前端自动化测试](http://www.zhihu.com/question/29922082)
 
 ### 其他文章
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
