@@ -10,7 +10,11 @@ https://github.com/striverx/notes/issues
 - [一周一模式之 — 概述](https://github.com/striverx/notes/blob/master/javascript/design-pattern.md)
 - [一周一模式之 — 策略模式](https://github.com/striverx/notes/blob/master/javascript/pattern-strategy.md)
 
-### 其他
+### 前端其他
 - [fis使用要点记录](https://github.com/striverx/notes/blob/master/fis/fis.md)
 - [高质量技术网站和文章收藏](https://github.com/striverx/notes/blob/master/other/favorite.md)
+
+### iOS编程
+- [UI基础笔记](https://github.com/striverx/notes/blob/master/iOS/ui-foundation.md)
+
 
