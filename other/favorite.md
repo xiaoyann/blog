@@ -60,6 +60,7 @@
 - [如何进行前端自动化测试](http://www.zhihu.com/question/29922082)
 
 ### 其他文章
+- [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
 - [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
 - [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
