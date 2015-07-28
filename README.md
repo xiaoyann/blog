@@ -3,6 +3,7 @@ https://github.com/striverx/notes/issues
 ### HTML&CSS
 - [我的CSS规范](https://github.com/striverx/notes/blob/master/html-css/css-spec.md)
 - [CSS性能优化](https://github.com/striverx/notes/blob/master/html-css/css-optimization.md)
+- [CSS代码收藏](https://github.com/striverx/notes/blob/master/html-css/code-favorite.md)
 
 ### JavaScript
 - [跨域总结](https://github.com/striverx/notes/blob/master/javascript/cross-domain.md)
