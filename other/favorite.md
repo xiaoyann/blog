@@ -18,10 +18,11 @@
 - [跟阿铭学Linux](http://www.apelearn.com/study_v2/index.html)
 - [资料大搜罗啊](https://github.com/jikeytang/front-end-collect)
 
-### 深入浅出React系列
+### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
+- [react animation](http://react.rocks/tag/Animation)
 
 ### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
