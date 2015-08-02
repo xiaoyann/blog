@@ -61,6 +61,14 @@
 - [浏览器端测试：mocha，chai，phantomjs](https://github.com/alsotang/node-lessons/tree/master/lesson7)
 - [如何进行前端自动化测试](http://www.zhihu.com/question/29922082)
 
+### JavaScript 内存管理
+- [JavaScript 内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
+- [JS内存泄漏排查方法 — Chrome Profiles](http://www.html5dw.com/js-memory-leak-troubleshooting-method-chrome-profiles/)
+- [编写高性能Javascript](http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/)
+- [Profiling memory performance](https://developer.chrome.com/devtools/docs/heap-profiling)
+- [了解 JavaScript 应用程序中的内存泄漏](http://www.ibm.com/developerworks/cn/web/wa-jsmemory/)
+- [App之性能优化](http://www.cnblogs.com/stenson/p/3951035.html)
+
 ### 其他文章
 - [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
@@ -69,6 +77,7 @@
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
+
 
 
 
