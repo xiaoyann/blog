@@ -17,6 +17,7 @@
 - [slideshare](http://www.slideshare.net/)
 - [跟阿铭学Linux](http://www.apelearn.com/study_v2/index.html)
 - [资料大搜罗啊](https://github.com/jikeytang/front-end-collect)
+- [JavaScript MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
