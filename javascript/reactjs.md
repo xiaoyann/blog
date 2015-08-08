@@ -44,3 +44,8 @@ updateReadStatus: function() {
 },
 
 ```
+
+
+### 官方说`shouldComponentUpdate`方法在组件初始化时和调用`forceUpdate`时不会被调用。但在使用`forceUpdate`时`shouldComponentUpdate`却被调用了？
+
+> 所以需要强制刷新时可以再次调用`setState`，而不要使用`forceUpdate`。使用`forceUpdate`时，新旧`state`都已被设置成一样的了，如果我们在`shouldComponentUpdate`做了优化，组件不会重新render。
