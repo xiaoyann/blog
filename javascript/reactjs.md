@@ -22,3 +22,25 @@ shouldComponentUpdate: function(nextProps, nextState) {
 	return !this.isEqual(this.state.topic, nextState.topic);
 }
 ```
+
+### 如果`state`的属性是一个对象，在重置该对象的属性时要注意引用关系，不然就会直接修改了`state`，造成一些不可预料的问题。
+
+```javascript
+getInitialState: function() {
+	return {
+		// topic 是一个对象
+		topic: this.props.topic
+	}
+},
+
+updateReadStatus: function() {
+    // 这里clone一份，而不是直接取
+	var topic = this.clone(this.state.topic);
+	// 如果不是clone的，这里将会直接修改state
+	topic.isRead = true;
+	this.setState({
+		topic: topic
+	});
+},
+
+```
