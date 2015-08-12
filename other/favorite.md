@@ -2,6 +2,7 @@
 
 ### 有用的网站
 - [W3Help](http://w3help.org/zh-cn/kb/)
+- [②ality – JavaScript and more](http://www.2ality.com/)
 - [奇舞周刊](http://www.75team.com/weekly/)
 - [DIV.IO](http://div.io/)
 - [Git Book](http://git-scm.com/book/zh/v1)
