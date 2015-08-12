@@ -87,6 +87,26 @@ Person.hehe(); // hehe
 ```
 
 ##### getters and setters.
+```javascript
+class Person {
+    constructor(name) {
+        this.name = name;
+    }
+    set gender(value) {
+        console.log(value);
+    }
+    // 这里不能有参数，否则会报错
+    get gender() {
+        console.log('get gender');
+        return 123;
+    }
+}
+
+var ziyan = new Person('ziyan');
+ziyan.gender = 'male'; // get gender
+var gender = ziyan.gender; // get gender
+console.log(gender); // 123
+```
 
 ##### computed method name.
 ```javascript
