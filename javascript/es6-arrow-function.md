@@ -1,4 +1,5 @@
 # ES6 - 箭头函数
+related: [http://exploringjs.com/es6/ch_arrow-functions.html](http://exploringjs.com/es6/ch_arrow-functions.html)
 
 ##### 语法结构
 ```javascript
