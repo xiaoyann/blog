@@ -12,6 +12,8 @@ https://github.com/striverx/notes/issues
 - [一周一模式之 — 策略模式](https://github.com/striverx/notes/blob/master/javascript/pattern-strategy.md)
 - [一周一模式之 — 享元模式](https://github.com/striverx/notes/blob/master/javascript/pattern-flyweight.md)
 - [es6 - 箭头函数](https://github.com/striverx/notes/blob/master/javascript/es6-arrow-function.md)
+- [es6 - Class](https://github.com/striverx/notes/blob/master/javascript/es6-class.md)
+
 
 ### 前端其他
 - [fis使用要点记录](https://github.com/striverx/notes/blob/master/fis/fis.md)
