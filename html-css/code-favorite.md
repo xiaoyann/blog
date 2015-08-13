@@ -47,3 +47,38 @@
     *zoom: 1;  // 针对IE
 }
 ```
+
+#### 页脚固定在底部
+```css
+html, body {
+    height: 100%;
+}
+.warrper {
+    width: 100%;
+    min-height: 100%;
+    margin-bottom: -100px;
+}
+.inner {
+    padding-bottom: 100px;
+}
+.footer {
+    width: 100%;
+    height: 100px;
+    background: #000;
+}
+```
+
+```html
+<body>
+    <div class="wrapper">
+        <div class="inner">
+            <span>main</span>
+        </div>
+    </div>
+    <div class="footer">footer</div>
+</body>
+```
+
+
+
+
