@@ -37,5 +37,16 @@ import saySomething from './m';
 saySomething('hehe'); // hehe
 ```
 
+### alias via as
+```javascript
+import {username as name} form 'm';
+```
+
+### imports are hoisted
+```javascript
+saySomething('hehe');
+
+import saySomething from './m';
+```
 
 
