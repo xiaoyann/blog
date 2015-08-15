@@ -11,8 +11,9 @@ https://github.com/striverx/notes/issues
 - [Reactjs使用心得](https://github.com/striverx/notes/blob/master/javascript/reactjs.md)
 - [一周一模式之 — 策略模式](https://github.com/striverx/notes/blob/master/javascript/pattern-strategy.md)
 - [一周一模式之 — 享元模式](https://github.com/striverx/notes/blob/master/javascript/pattern-flyweight.md)
-- [es6 - 箭头函数](https://github.com/striverx/notes/blob/master/javascript/es6-arrow-function.md)
-- [es6 - Class](https://github.com/striverx/notes/blob/master/javascript/es6-class.md)
+- [ES6 - Arrow Function](https://github.com/striverx/notes/blob/master/javascript/es6-arrow-function.md)
+- [Es6 - Class](https://github.com/striverx/notes/blob/master/javascript/es6-class.md)
+- [ES6 - Modules](https://github.com/striverx/notes/blob/master/javascript/es6-modules.md)
 
 
 ### 前端其他
