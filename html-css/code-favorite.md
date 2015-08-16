@@ -44,7 +44,7 @@
     /* 虽然height已经为0，但当content里有内容，font-size又大于0时还是会产生高度。visibility: hidden只能使元素不可见，但所占用的位置还是会占用，所以将font-size设置为0是可以避免出现多余的空白，或者将content设置为空，或者设置 overflow: hidden; 都可以解决这个问题*/
 }
 .clearfix {
-    *zoom: 1;  // 针对IE
+    *zoom: 1;  /* 针对IE */
 }
 ```
 
