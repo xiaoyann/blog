@@ -79,6 +79,7 @@
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
+- [浅谈移动前端的最佳实践](http://www.cnblogs.com/yexiaochai/p/4219523.html)
 
 
 
