@@ -1,12 +1,10 @@
-# iOS编程学习笔记
+﻿# iOS编程学习笔记
 
 ## storyboard是什么
 通过一个可视化的界面来快速创建APP界面
 
 ## IBAction和IBOutlet的作用
 在进行iOS开发时需要我们手工实现代码与界面元素的对应关系。IBAction用来表示这个方法与可以与界面上的事件建立关系，IBOutlet用来表示这个变量可以与界面上的控件建立关系。
-
-> 疑问：只能通过拖线的方式吗？可以编写代码来建立关系吗？
 
 ## 如何退出键盘
 iOS文本输入框控件不像HTML的input可以自动失去焦点，需要我们编写命令来实现。
@@ -49,6 +47,13 @@ iOS文本输入框控件不像HTML的input可以自动失去焦点，需要我�
 
 - (UIView *)viewWithTag:(NSInteger)tag;
 > 根据tag获取控件
+
+
+## UINavigationBar
+- setTranslucent
+> 值为YES则状态栏及导航栏底部为透明的，界面上的组件应该从屏幕顶部开始显示。值为NO则状态栏及导航栏底部不是透明的，界面上的组件紧挨着导航栏显示
+
+- 
 
 
 
