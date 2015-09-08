@@ -28,5 +28,9 @@ fis.config.set('settings.postpackager.simple.autoReflow', true)`
 #### 图片规则一定不要加文件夹进去
 [问题](https://github.com/fex-team/fis/issues/623#issuecomment-124124805)
 
+#### 增加可识别的HTML文件后缀
+```
+/fis/node_modules/fis-kernel/lib/util.js
+```
 
 
