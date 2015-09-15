@@ -43,6 +43,7 @@
 - [移动端高清、多屏适配方案](http://div.io/topic/1092)
 - [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)
 - [浅谈移动前端最佳实践](http://div.io/topic/818)
+- [移动开发问题](http://www.cnblogs.com/haibao/p/3713997.html)
 
 ### 组件化
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
