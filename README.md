@@ -23,6 +23,7 @@
 - [阅读记录](https://github.com/striverx/notes/blob/master/other/experience.md)
 - [浏览器缓存](https://github.com/striverx/notes/blob/master/other/browser-cache.md)
 - [WEB开发基础知识](https://github.com/striverx/notes/blob/master/other/web-basis.md)
+- [开发问题总结](https://github.com/striverx/notes/blob/master/other/develop-issue.md)
 
 ### iOS编程
 - [UI基础笔记](https://github.com/striverx/notes/blob/master/iOS/ui-foundation.md)
