@@ -45,6 +45,7 @@
 - [浅谈移动前端最佳实践](http://div.io/topic/818)
 - [移动开发问题](http://www.cnblogs.com/haibao/p/3713997.html)
 - [京东首页前端技术剖析与对比](http://www.barretlee.com/blog/2015/09/09/jd-architecture-analysis/)
+- [构建需求响应式亿级商品详情页](http://jinnianshilongnian.iteye.com/blog/2235572)
 
 ### 组件化
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
