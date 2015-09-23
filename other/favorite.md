@@ -20,6 +20,10 @@
 - [资料大搜罗啊](https://github.com/jikeytang/front-end-collect)
 - [JavaScript MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
+### 架构与思想
+- [构建单页Web应用](https://github.com/xufei/blog/issues/5#issuecomment-136962500)
+- [大型单页面应用的进阶挑战](http://div.io/topic/1340)
+
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
