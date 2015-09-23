@@ -62,6 +62,7 @@
 - [浏览器的加载过程](http://wuduoyi.com/note/what-happen-when-browser-loading-the-page/)
 - [毫秒必争，前端网页性能最佳实践](http://blog.jobbole.com/48746/#gzip)
 - [google developers 优化性能](https://developers.google.com/web/fundamentals/performance/?hl=zh-cn)
+- [16毫秒的优化](https://github.com/puterjam/speed_render/blob/master/velocity_china_2013.pdf)
 
 ### 单元测试
 - [七牛资深前端工程师马逸清：前端测试探索实践](http://blog.qiniu.com/archives/3832)
