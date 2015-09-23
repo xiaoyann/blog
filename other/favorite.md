@@ -24,6 +24,26 @@
 - [构建单页Web应用](https://github.com/xufei/blog/issues/5#issuecomment-136962500)
 - [大型单页面应用的进阶挑战](http://div.io/topic/1340)
 
+### 组件化
+- [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
+- [Web应用的组件化（二）——管控平台 ](https://github.com/xufei/blog/issues/7)
+- [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+
+### 前端工程
+- [前端工程](https://github.com/fouber/blog/labels/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B)
+- [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
+- [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
+- [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
+
+### 解决方案
+- [移动端高清、多屏适配方案](http://div.io/topic/1092)
+- [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)
+- [浅谈移动前端最佳实践](http://div.io/topic/818)
+- [移动开发问题](http://www.cnblogs.com/haibao/p/3713997.html)
+- [京东首页前端技术剖析与对比](http://www.barretlee.com/blog/2015/09/09/jd-architecture-analysis/)
+- [构建需求响应式亿级商品详情页](http://jinnianshilongnian.iteye.com/blog/2235572)
+- [Javascript RSA](http://www-cs-students.stanford.edu/~tjw/jsbn/)
+
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
@@ -42,26 +62,6 @@
 - [浏览器的加载过程](http://wuduoyi.com/note/what-happen-when-browser-loading-the-page/)
 - [毫秒必争，前端网页性能最佳实践](http://blog.jobbole.com/48746/#gzip)
 - [google developers 优化性能](https://developers.google.com/web/fundamentals/performance/?hl=zh-cn)
-
-### 解决方案
-- [移动端高清、多屏适配方案](http://div.io/topic/1092)
-- [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)
-- [浅谈移动前端最佳实践](http://div.io/topic/818)
-- [移动开发问题](http://www.cnblogs.com/haibao/p/3713997.html)
-- [京东首页前端技术剖析与对比](http://www.barretlee.com/blog/2015/09/09/jd-architecture-analysis/)
-- [构建需求响应式亿级商品详情页](http://jinnianshilongnian.iteye.com/blog/2235572)
-- [Javascript RSA](http://www-cs-students.stanford.edu/~tjw/jsbn/)
-
-### 组件化
-- [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
-- [Web应用的组件化（二）——管控平台 ](https://github.com/xufei/blog/issues/7)
-- [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
-
-### 前端工程
-- [前端工程](https://github.com/fouber/blog/labels/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B)
-- [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
-- [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
-- [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
 
 ### 单元测试
 - [七牛资深前端工程师马逸清：前端测试探索实践](http://blog.qiniu.com/archives/3832)
