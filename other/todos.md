@@ -16,6 +16,8 @@
 * 缓存到localStorage
 
 > 参考[大神之作](http://qiqu.uc.cn/?uc_param_str=frpfvedncpssntnwbi#!/index/index)
+> [MT](https://github.com/mtjs/mt)
+> [fouber Demo](http://scrat.io/#!/index)
 
 
 ### 根据自己的需求实现浏览器历史记录管理库
