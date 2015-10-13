@@ -16,6 +16,7 @@
 - [ECMAScript 6 - class](https://github.com/striverx/notes/blob/master/javascript/es6-class.md)
 - [ECMAScript 6 - modules](https://github.com/striverx/notes/blob/master/javascript/es6-modules.md)
 - [JavaScript 代码收藏](https://github.com/striverx/notes/blob/master/javascript/favorite.md)
+- [使用canvas画一个带动画的环形图](https://github.com/striverx/notes/blob/master/javascript/canvas-circle.md)
 
 ### 前端其他
 - [fis使用要点记录](https://github.com/striverx/notes/blob/master/fis/fis.md)
