@@ -88,6 +88,7 @@
 - [最全前端面试问题及答案总结](http://segmentfault.com/a/1190000002562454?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 - [mobile-web-front-end-development-solutions](https://github.com/xiangshouding/mobile-web-front-end-development-solutions)
 - [调试 CSS Keyframe 动画](http://www.w3ctech.com/topic/1472)
+- [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html#3253158)
 
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
