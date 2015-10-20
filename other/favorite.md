@@ -23,6 +23,7 @@
 ### 架构与思想
 - [构建单页Web应用](https://github.com/xufei/blog/issues/5#issuecomment-136962500)
 - [大型单页面应用的进阶挑战](http://div.io/topic/1340)
+- [还在纠结 Flux 或 Relay，或许 Redux 更适合你](https://ruby-china.org/topics/26944)
 
 ### 组件化
 - [Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
