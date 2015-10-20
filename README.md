@@ -1,5 +1,3 @@
-### ziyan's blog
-
 ### HTML&CSS
 - [我的CSS规范](https://github.com/striverx/notes/blob/master/html-css/css-spec.md)
 - [CSS性能优化](https://github.com/striverx/notes/blob/master/html-css/css-optimization.md)
