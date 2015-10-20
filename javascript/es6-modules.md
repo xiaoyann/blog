@@ -1,4 +1,5 @@
 ﻿# ES6 - Modules
+related: [http://exploringjs.com/es6/ch_modules.html](http://exploringjs.com/es6/ch_modules.html)
 
 ### export and import
 ```javascript
