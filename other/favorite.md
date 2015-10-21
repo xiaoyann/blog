@@ -35,6 +35,7 @@
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 - [前端工程与性能优化](http://fex.baidu.com/blog/2014/03/fis-optimize/)
 - [前端工程之本地调试与数据模拟](http://fex.baidu.com/blog/2014/03/fis-debug/)
+- [基于ES6,使用React、Webpack、Babel构建模块化JavaScript应用](http://www.csdn.net/article/2015-05-24/2824757-building-modular-javascript-applications-in-es6-with-react-webpack-and-babel)
 
 ### 解决方案
 - [移动端高清、多屏适配方案](http://div.io/topic/1092)
