@@ -27,7 +27,7 @@ Beebank是公司的P2P项目，前端部分由我负责开发完成，现在已�
 该项目是醋溜为了转型而启动的商城项目。我负责的是一键搬家功能、退款退货功能。
 
 ####2. [楚楚街主站](http://www.chuchujie.com/)
-公司的主站在我手中做过两版了，现在的这版已不是我做的了。主站主要是商品展示，比较简单，就没有使用框架。但为了提高项目的质量也运用了MVC思想（[当时实现的MVC小框框](https://github.com/striverx/php-mvc-demo)）。
+公司的主站在我手中做过两版了，现在的这版已不是我做的了。主站主要是商品展示，比较简单，就没有使用框架。但为了提高项目的质量也运用了MVC思想（[当时实现的MVC小框框](https://github.com/yannxiao/php-mvc-demo)）。
 
 ####3. [爱淘宝楚楚街](http://chuchujie.ai.taobao.com/)
 这个站从前端切页面到后台实现都是由我一人完成。因为这个站是嵌在爱淘宝主站中的子站，里面有很多限制，比如CSS命名，javascript API限制等等。前端妹纸要去熟悉这套东西还是有一定成本的，所以我一人去做效率会更高。
@@ -56,9 +56,9 @@ Beebank是公司的P2P项目，前端部分由我负责开发完成，现在已�
 
 ## 来自编程与工作的成就感
 - 在2012年的最后两个月我开始自学编程，并决定在2013初来北京参加培训。培训期间第一个项目满分，毕业项目被选为了班级[优秀作品](http://www.lampbrother.net/php/html/2013/zuopinliebiao_1011/185.html)。作为打了五年工的打工仔，我感觉很开心，这个决定是对的。
-- 在第一家公司醋溜科技表现还不错，CEO、CTO都比较认可，并得了个公司的小苹果奖。[图](https://github.com/striverx/notes/blob/master/assets/IMG_0146.JPG)
+- 在第一家公司醋溜科技表现还不错，CEO、CTO都比较认可，并得了个公司的小苹果奖。[图](https://github.com/yannxiao/notes/blob/master/assets/IMG_0146.JPG)
 
-### [GitHub](https://github.com/striverx) 与 [书架](https://github.com/striverx/notes/blob/master/assets/IMG_0142.JPG)
+### [GitHub](https://github.com/striverx) 与 [书架](https://github.com/yannxiao/notes/blob/master/assets/IMG_0142.JPG)
 
 
 
