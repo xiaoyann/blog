@@ -1,5 +1,9 @@
 ﻿# 使用CSS3+DIV画一个带动画的环形图
 
+- 参考：https://www.zybuluo.com/dengzhirong/note/178108
+具体实现方式并不一样，但原理一致。
+- 这里没有使用`clip`这个CSS3属性，因为兼容性问题，所以可以用DIV实现的就还是用DIV实现吧
+
 ```html
 	<div id="chart-circle" class="chart-circle">
 		<div class="track"></div>
