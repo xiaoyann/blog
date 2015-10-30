@@ -60,6 +60,7 @@
 - [与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
 - [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
 - [react parts](http://react.parts/native-ios)
+- [React-Native for IOS](https://speakerdeck.com/xuheng/react-native-for-ios)
 
 ### 浏览器的工作原理及优化
 - [新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
