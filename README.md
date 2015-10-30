@@ -24,6 +24,8 @@
 - [浏览器缓存](https://github.com/yannxiao/notes/blob/master/other/browser-cache.md)
 - [WEB开发基础知识](https://github.com/yannxiao/notes/blob/master/other/web-basis.md)
 - [开发问题总结](https://github.com/yannxiao/notes/blob/master/other/develop-issue.md)
+- [SVN的使用](https://github.com/yannxiao/notes/blob/master/other/svn.md)
+
 
 ### iOS编程
 - [UI基础笔记](https://github.com/yannxiao/notes/blob/master/iOS/ui-foundation.md)
