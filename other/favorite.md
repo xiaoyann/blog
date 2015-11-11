@@ -98,6 +98,7 @@
 - [Animate.css](http://daneden.github.io/animate.css/)
 - [浅谈移动前端的最佳实践](http://www.cnblogs.com/yexiaochai/p/4219523.html)
 - [loading图](http://preloaders.net/en/circular)
+- [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)
 
 
 
