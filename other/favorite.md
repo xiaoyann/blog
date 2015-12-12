@@ -93,6 +93,8 @@
 - [调试 CSS Keyframe 动画](http://www.w3ctech.com/topic/1472)
 - [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html#3253158)
 - [CSS3弹性盒模型flexbox完整版教程](http://caibaojian.com/flexbox-guide.html)
+- [App域名劫持之DNS高可用 - 开源版HttpDNS方案详解](http://www.tuicool.com/articles/7nAJBb)
+- [HttpDNS 服务详解](http://www.ttlsa.com/web/httpdns-detailed-service/)
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
