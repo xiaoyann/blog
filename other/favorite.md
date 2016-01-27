@@ -87,6 +87,7 @@
 - [App之性能优化](http://www.cnblogs.com/stenson/p/3951035.html)
 
 ### 其他文章
+- [GIT分支管理是一门艺术](http://www.oschina.net/question/54371_59134)
 - [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
 - [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
