@@ -101,4 +101,14 @@ IMPLEMENT_KEYBOARD_HANDLER(keyboardDidChangeFrame)
 
 ```
 
+## TabBar 图片被自动着色
+1. 将图片白色部分做成透明无色值的
+
+2. 或者修改React源码，使用原图渲染模式
+```objective-c
+// 在 RCTConvert.m 文件的 + (UIImage *)UIImage:(id)json 类方法最后设置image的渲染模式
+image = [image imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+return image;
+```
+
 
