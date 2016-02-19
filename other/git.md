@@ -102,11 +102,74 @@ $ git rm --cached file
 $ git mv old_file new_file
 ```
 
+查看历史提交
+http://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%9F%A5%E7%9C%8B%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2
+```
+$ git log
+// 只显示两条信息
+$ git log -2
+// 显示每次提交的内容差异
+$ git log -p
+// 显示简略的统计信息
+$ git log --stat
+// 指定显示格式，--pretty还有其他多种选项
+$ git log --pretty=oneline -1
+// 更形象的展示分支、合并历史
+$ git log --pretty=oneline --graph
+// 查看指定时间内的日志
+$ git log --since=2016-01-26
+$ git log --author=yanxiao
+$ git log --grep=v0.1.5
+$ git log -Sfunction_name
+// 查看指定目录或文件的日志
+$ git log -- ./pages
+```
+
+撤销操作
+http://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%92%A4%E6%B6%88%E6%93%8D%E4%BD%9C
+```
+$ git commit --amend
+// 取消已放入暂存区的文件，只会修改暂存区
+$ git reset HEAD <file>
+// 取消对文件的修改，不可恢复
+$ git checkout -- <file>
+```
+
+远程仓库操作
+
+```
+$ git remote -v
+// 会抓取克隆（或上一次抓取）后新推送的所有工作
+$ git fetch origin
+// 推送分支到远程仓库
+$ git push [remote-name] [branch-name]
+// 查看远程仓库信息
+$ git remote show [remote-name]
+$ git remote rename old new
+$ git remote rm [remote-name]
+```
 
 ## 分支管理
 http://www.oschina.net/question/54371_59134
 
+## 恢复reset操作
+```
+// 查看历史操作，找到想要恢复的版本
+$ git reflog
+// 再次执行reset
+$ git reset xxx
+```
 
+## 跟踪远程分支
+```
+// 第一种方法
+// git branch [branch] [remotename]/[branch]
+$ git checkout -b [branch] [remotename]/[branch]
+// 第二种方法
+$ git checkout --track [remotename]/[branch]
+// 第三种方法(设置已有的分支跟踪其他分支)
+$ git branch -u [remotename]/[branch]
+```
 
 
 
