@@ -31,3 +31,5 @@
 - [UI基础笔记](https://github.com/yannxiao/notes/blob/master/iOS/ui-foundation.md)
 - [iOS高质量文章收藏](https://github.com/yannxiao/notes/blob/master/iOS/favorite.md)
 
+### 交互设计
+- [交互设计师修炼指南](http://www.uisdc.com/interaction-designers-guide)
