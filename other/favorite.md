@@ -98,6 +98,8 @@
 - [CSS3弹性盒模型flexbox完整版教程](http://caibaojian.com/flexbox-guide.html)
 - [App域名劫持之DNS高可用 - 开源版HttpDNS方案详解](http://www.tuicool.com/articles/7nAJBb)
 - [HttpDNS 服务详解](http://www.ttlsa.com/web/httpdns-detailed-service/)
+- [commitmessage和changelog编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
