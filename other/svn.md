@@ -1,4 +1,5 @@
 ﻿# SVN 使用
+http://svnbook.red-bean.com/nightly/zh/index.html
 
 ## 合理的结构
 - trunk 
