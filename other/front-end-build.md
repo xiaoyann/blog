@@ -194,8 +194,40 @@ fis.media('qa').match('/static/{dist,images,js}/**', {
 });
 ```
 
-
 ## 使用 Gulp 完成以上功能
+
+## 目录结构
+```js
+Pages
+|--Home
+|--|--index.tpl
+|--|--index.js
+|--|--index.less
+|--Other
+|--|--index.tpl
+|--|--index.js
+|--|--index.less
+|--|--images
+|--|--|--xx.png
+|--index.html
+|--app.js
+Components
+|--Loading
+|--|--index.js
+|--|--index.tpl
+|--|--index.less
+Lib
+|--Vue
+|--|--vue.js
+Js
+|--mod.js
+Css
+|--common.less
+Images
+|--logo.png
+```
+
+
 
 
 

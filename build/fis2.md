@@ -1,4 +1,4 @@
-# fis使用要点记录   
+# [FIS2](http://fex.baidu.com/fis-site/index.html)使用要点记录   
 
 #### 优化脚本与样式资源位置
 插件：[fis-postpackager-simple](https://github.com/hefangshi/fis-postpackager-simple)
