@@ -25,14 +25,14 @@
 **上送的数据格式：**
 
 字段 | 描述
--- | --
+---- | ----
 t | 数据类型，不需要自定义，如：`FIRST_PAINT_TIME`(白屏时间)，可以配置别名来简化
 m | 数据属于哪个模块，需要自定义，如：`home`(主页)
 v | 数据内容
 
 **数据类型：**
 类型 | 描述
--- | --
+---- | ----
 FIRST_PAINT_TIME | 白屏时间
 ABOVE_THE_FOLD_TIME | 首屏时间
 PAGE_ERROR | 页面异常
@@ -56,7 +56,6 @@ WPS.config({
 这样的方式很简单，但有个需要注意的问题就是客户端或者服务端有可能对URL的长度有限制。
 
 ```js
-// 发送数据到服务器
 function send(data, url) {
 	if (!data || !url) return;
 	var dataStr = queryString(data);
@@ -70,7 +69,6 @@ function send(data, url) {
 如果页面主要内容是直接写在HTML页面里，就可以在`<head></head>`里进行统计：
 
 ```html
-// 1. 在页面顶部记录开始时间
 <html>
 <head>
     <meta charset="utf-8">
@@ -84,7 +82,6 @@ function send(data, url) {
     </script>
 </head>
 </html>
-// 2. 
 ```
 
 如果页面主要内容是通过JS创建的，那就应该根据JS会在什么时候创建内容的逻辑设置统计时间点。
