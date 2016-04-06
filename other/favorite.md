@@ -49,7 +49,7 @@
 - [静态资源（JS/CSS）存储在localStorage有什么缺点？为什么没有被广泛应用？](http://www.zhihu.com/question/28467444)
 - [Hybrid 架构下的 H5 应用加速方案](http://trock.lofter.com/post/117023_e8e175)
 - [移动APP该如何保存用户密码](http://blog.csdn.net/hengyunabc/article/details/34623957)
-
+- [分享几个前端干货，面试经常提](http://www.haorooms.com/post/qd_ghfx)
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
