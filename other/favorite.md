@@ -86,6 +86,7 @@
 - [Profiling memory performance](https://developer.chrome.com/devtools/docs/heap-profiling)
 - [了解 JavaScript 应用程序中的内存泄漏](http://www.ibm.com/developerworks/cn/web/wa-jsmemory/)
 - [App之性能优化](http://www.cnblogs.com/stenson/p/3951035.html)
+- [Use JavaScript closures efficiently](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
 ### 其他文章
 - [GIT分支管理是一门艺术](http://www.oschina.net/question/54371_59134)
