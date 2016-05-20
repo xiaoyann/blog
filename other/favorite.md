@@ -50,6 +50,7 @@
 - [Hybrid 架构下的 H5 应用加速方案](http://trock.lofter.com/post/117023_e8e175)
 - [移动APP该如何保存用户密码](http://blog.csdn.net/hengyunabc/article/details/34623957)
 - [分享几个前端干货，面试经常提](http://www.haorooms.com/post/qd_ghfx)
+- [300 毫秒点击延迟的来龙去脉](http://thx.github.io/mobile/300ms-click-delay)
 
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
