@@ -56,6 +56,7 @@
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 - [react animation](http://react.rocks/tag/Animation)
+- [react rocks](https://react.rocks/)
 
 ### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
