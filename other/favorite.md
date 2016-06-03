@@ -50,15 +50,20 @@
 - [Hybrid 架构下的 H5 应用加速方案](http://trock.lofter.com/post/117023_e8e175)
 - [移动APP该如何保存用户密码](http://blog.csdn.net/hengyunabc/article/details/34623957)
 - [分享几个前端干货，面试经常提](http://www.haorooms.com/post/qd_ghfx)
+- [300 毫秒点击延迟的来龙去脉](http://thx.github.io/mobile/300ms-click-delay)
 
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 - [react animation](http://react.rocks/tag/Animation)
+<<<<<<< HEAD
 - [颠覆式前端UI开发框架：React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 - [Immutable 详解及 React 中实践](http://www.w3ctech.com/topic/1595)
 - [React.js 最佳实践(2016)](http://www.jianshu.com/p/8ad6876daacc)
+=======
+- [react rocks](https://react.rocks/)
+>>>>>>> 3521de19d428a04c96248770c561b704b06f0296
 
 ### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
@@ -92,6 +97,7 @@
 - [Profiling memory performance](https://developer.chrome.com/devtools/docs/heap-profiling)
 - [了解 JavaScript 应用程序中的内存泄漏](http://www.ibm.com/developerworks/cn/web/wa-jsmemory/)
 - [App之性能优化](http://www.cnblogs.com/stenson/p/3951035.html)
+- [Use JavaScript closures efficiently](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
 ### 其他文章
 - [GIT分支管理是一门艺术](http://www.oschina.net/question/54371_59134)
