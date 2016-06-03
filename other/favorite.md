@@ -1,4 +1,4 @@
-# 高质量技术网站和文章收藏
+﻿# 高质量技术网站和文章收藏
 
 ### 有用的网站
 - [屈屈的博客](https://imququ.com/)
@@ -56,6 +56,9 @@
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 - [react animation](http://react.rocks/tag/Animation)
+- [颠覆式前端UI开发框架：React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
+- [Immutable 详解及 React 中实践](http://www.w3ctech.com/topic/1595)
+- [React.js 最佳实践(2016)](http://www.jianshu.com/p/8ad6876daacc)
 
 ### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
@@ -64,6 +67,9 @@
 - [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
 - [react parts](http://react.parts/native-ios)
 - [React-Native for IOS](https://speakerdeck.com/xuheng/react-native-for-ios)
+- [看Facebook是如何优化React Native性能](https://github.com/gaohailang/blog/issues/4)
+- [2016年1月9日 React Native实战经验分享会（北京）分享记录](http://bbs.reactnative.cn/topic/320/2016%E5%B9%B41%E6%9C%889%E6%97%A5-react-native%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A-%E5%8C%97%E4%BA%AC-%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95)
+- [React Native 开源一年的总结](https://github.com/gaohailang/blog/issues/23)
 
 ### 浏览器的工作原理及优化
 - [新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
@@ -100,6 +106,8 @@
 - [App域名劫持之DNS高可用 - 开源版HttpDNS方案详解](http://www.tuicool.com/articles/7nAJBb)
 - [HttpDNS 服务详解](http://www.ttlsa.com/web/httpdns-detailed-service/)
 - [commitmessage和changelog编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- [深入浅出ES6](http://www.infoq.com/cn/search.action?queryString=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6&page=1&searchOrder=&sst=CQ4L105hIcUYg8kB)
+- [Reduce Your bundle.js File Size By Doing This One Thing](https://lacke.mn/reduce-your-bundle-js-file-size/)
 
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
