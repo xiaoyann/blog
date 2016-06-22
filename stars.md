@@ -6,4 +6,4 @@
 * https://github.com/chjj/marked
 * https://github.com/isagalaev/highlight.js
 * https://github.com/rvagg/node-pygmentize-bundled
-
+* https://github.com/sindresorhus/github-markdown-css
