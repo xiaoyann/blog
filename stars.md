@@ -8,6 +8,7 @@
 * https://github.com/rvagg/node-pygmentize-bundled
 * https://github.com/sindresorhus/github-markdown-css
 * https://github.com/NextStepWebs/simplemde-markdown-editor
+* https://github.com/PrismJS/prism
 
 ## 项目部署
 
