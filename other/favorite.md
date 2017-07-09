@@ -1,6 +1,7 @@
-# 高质量技术网站和文章收藏
+﻿# 高质量技术网站和文章收藏
 
 ### 有用的网站
+- [屈屈的博客](https://imququ.com/)
 - [W3Help](http://w3help.org/zh-cn/kb/)
 - [②ality – JavaScript and more](http://www.2ality.com/)
 - [奇舞周刊](http://www.75team.com/weekly/)
@@ -47,12 +48,22 @@
 - [Javascript RSA](http://www-cs-students.stanford.edu/~tjw/jsbn/)
 - [静态资源（JS/CSS）存储在localStorage有什么缺点？为什么没有被广泛应用？](http://www.zhihu.com/question/28467444)
 - [Hybrid 架构下的 H5 应用加速方案](http://trock.lofter.com/post/117023_e8e175)
+- [移动APP该如何保存用户密码](http://blog.csdn.net/hengyunabc/article/details/34623957)
+- [分享几个前端干货，面试经常提](http://www.haorooms.com/post/qd_ghfx)
+- [300 毫秒点击延迟的来龙去脉](http://thx.github.io/mobile/300ms-click-delay)
 
 ### React系列
 - [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
 - [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
 - [理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
 - [react animation](http://react.rocks/tag/Animation)
+<<<<<<< HEAD
+- [颠覆式前端UI开发框架：React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
+- [Immutable 详解及 React 中实践](http://www.w3ctech.com/topic/1595)
+- [React.js 最佳实践(2016)](http://www.jianshu.com/p/8ad6876daacc)
+=======
+- [react rocks](https://react.rocks/)
+>>>>>>> 3521de19d428a04c96248770c561b704b06f0296
 
 ### React Native 系列
 - [背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
@@ -60,6 +71,10 @@
 - [与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
 - [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
 - [react parts](http://react.parts/native-ios)
+- [React-Native for IOS](https://speakerdeck.com/xuheng/react-native-for-ios)
+- [看Facebook是如何优化React Native性能](https://github.com/gaohailang/blog/issues/4)
+- [2016年1月9日 React Native实战经验分享会（北京）分享记录](http://bbs.reactnative.cn/topic/320/2016%E5%B9%B41%E6%9C%889%E6%97%A5-react-native%E5%AE%9E%E6%88%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%E4%BC%9A-%E5%8C%97%E4%BA%AC-%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95)
+- [React Native 开源一年的总结](https://github.com/gaohailang/blog/issues/23)
 
 ### 浏览器的工作原理及优化
 - [新式网络浏览器幕后揭秘](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
@@ -82,8 +97,10 @@
 - [Profiling memory performance](https://developer.chrome.com/devtools/docs/heap-profiling)
 - [了解 JavaScript 应用程序中的内存泄漏](http://www.ibm.com/developerworks/cn/web/wa-jsmemory/)
 - [App之性能优化](http://www.cnblogs.com/stenson/p/3951035.html)
+- [Use JavaScript closures efficiently](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
 ### 其他文章
+- [GIT分支管理是一门艺术](http://www.oschina.net/question/54371_59134)
 - [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 - [从“架构师书单”讲开去](http://blog.csdn.net/aimingoo/article/details/5588022)
 - [聊聊移动端屏幕适配](https://github.com/hahnzhu/hahnzhu.github.com/issues/25)
@@ -91,12 +108,19 @@
 - [mobile-web-front-end-development-solutions](https://github.com/xiangshouding/mobile-web-front-end-development-solutions)
 - [调试 CSS Keyframe 动画](http://www.w3ctech.com/topic/1472)
 - [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html#3253158)
+- [CSS3弹性盒模型flexbox完整版教程](http://caibaojian.com/flexbox-guide.html)
+- [App域名劫持之DNS高可用 - 开源版HttpDNS方案详解](http://www.tuicool.com/articles/7nAJBb)
+- [HttpDNS 服务详解](http://www.ttlsa.com/web/httpdns-detailed-service/)
+- [commitmessage和changelog编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- [深入浅出ES6](http://www.infoq.com/cn/search.action?queryString=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAES6&page=1&searchOrder=&sst=CQ4L105hIcUYg8kB)
+- [Reduce Your bundle.js File Size By Doing This One Thing](https://lacke.mn/reduce-your-bundle-js-file-size/)
 
 ### 其他网站
 - [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 - [Animate.css](http://daneden.github.io/animate.css/)
 - [浅谈移动前端的最佳实践](http://www.cnblogs.com/yexiaochai/p/4219523.html)
 - [loading图](http://preloaders.net/en/circular)
+- [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)
 
 
 
