@@ -1,9 +1,0 @@
-{
-  "scripts": {
-    "start": "webpack-dev-server --progress --colors"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "webpack": "^1.13.0"
-  }
-}
