@@ -1,7 +1,7 @@
 ---
-title: "解决 JavaScript 精度丢失问题"
-date: 2017-09-15T13:24:13+08:00
-draft: true
+title: "Solve the problem of javascript precision"
+date: 2016-11-30
+draft: false
 categories: [js]
 tags: [js]
 ---

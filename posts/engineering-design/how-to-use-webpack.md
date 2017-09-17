@@ -1,8 +1,8 @@
 ---
-title: "How to use webpack"
+title: "How to use webpack?"
 date: 2016-07-14
-draft: true
-categories: ''
+draft: false
+categories: []
 tags: [webpack]
 ---
 
