@@ -1,5 +1,5 @@
 ---
-title: "Solve the problem of javascript precision"
+title: "解决 JavaScript 浮点数精度丢失问题"
 date: 2016-11-30
 draft: false
 categories: [js]

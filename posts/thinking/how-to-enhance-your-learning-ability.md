@@ -1,5 +1,5 @@
 ---
-title: "How to enhance your learning ability?"
+title: "怎么提高学习能力？"
 date: 2017-09-17T12:12:00+08:00
 draft: false
 categories: [thinking]

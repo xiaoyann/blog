@@ -1,5 +1,5 @@
 ---
-title: "How to use webpack?"
+title: "Webpack + React + ES6 技术栈全套配置指南"
 date: 2016-07-14
 draft: false
 categories: []
